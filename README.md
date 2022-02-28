@@ -2,7 +2,7 @@
 - 👀 I’m interested in larning new technology
 - 🌱 I’m currently learning CI CD pipelines
 - 💞️ I’m looking to collaborate on Sitecore, Coveo, C# and Selenium automation tesing
-- 📫 How to reach me jay.Mallikarachchi@baycare.org
+- 📫 How to reach me jaymalliQA@gmail.com
 
 <!---
 JayMallika/JayMallika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
